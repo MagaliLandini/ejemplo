@@ -1,3 +1,3 @@
 El objeto multimedia ayuda a construir componentes complejos y repetitivos donde algunos medios se colocan junto con el contenido que no envuelve dichos medios. Además, hace esto con solo dos clases obligatorias gracias a flexbox.
 
-A continuación se muestra un ejemplo de un único objeto multimedia. Solo se requieren dos clases: el envoltorio .mediay el .media-bodyentorno a su contenido. El margen y
+A continuación se muestra un ejemplo de un único objeto multimedia. Solo se requieren dos clases: el 
